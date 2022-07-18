@@ -4,11 +4,11 @@
   uses: sebastianpopp/ftp-action@v2.0.0
   with:
     # FTP host
-    host: 
+    host: ksh730506.cafe24.com
     # FTP user
-    user: 
+    user: ksh730506
     # FTP password
-    password: 
+    password: tjrwnsdh0209FTP!
     # Force SSL encryption
     forceSsl: # optional, default is false
     # Local directory
