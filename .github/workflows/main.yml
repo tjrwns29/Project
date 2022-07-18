@@ -16,4 +16,7 @@ jobs:
           password: ${{ secrets.FTP_PWD }}
           server-dir: tjrwns29/
           exclude: |
-          README.md
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            README.md
