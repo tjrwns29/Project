@@ -4,13 +4,13 @@
   uses: SamKirkland/FTP-Deploy-Action@4.3.0
   with:
     # ftp server
-    server: 
+    server: ksh730506.cafe24.com
     # ftp username
-    username: 
+    username: ksh730506
     # ftp password
-    password: 
+    password: FTP_PWD
     # Server port to connect to (read your web hosts docs)
-    port: # optional
+    port: 21
     # protocol to deploy with - ftp, ftps, or ftps-legacy
     protocol: # optional
     # Folder to upload from, must end with trailing slash /
