@@ -15,3 +15,5 @@ jobs:
           username: ksh730506
           password: ${{ secrets.FTP_PWD }}
           server-dir: tjrwns29/
+          exclude: |
+          README.md
