@@ -14,3 +14,4 @@ jobs:
           server: ksh730506.cafe24.com
           username: ksh730506
           password: ${{ secrets.FTP_PWD }}
+          server-dir: www/
